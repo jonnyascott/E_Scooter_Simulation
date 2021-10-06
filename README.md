@@ -1,1 +1,6 @@
-# E_Scooter_Simulation
+# Simulating e-scooter usage in cities
+
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
