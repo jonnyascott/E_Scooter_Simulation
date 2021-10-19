@@ -25,5 +25,5 @@ We investigated the following questions
 
 Both of these questions we address by introducing a costing model for scooter operations and empirically finding the optimal settings of parameters in the contexts of the above questions.
 
-![alt text](https://github.com/jonnyascott/E_Scooter_Simulation/blob/main/Graphics/number_of_scooters.PNG)
-![alt text](https://github.com/jonnyascott/E_Scooter_Simulation/blob/main/Graphics/initial_positions.PNG)
+![alt text](https://github.com/jonnyascott/E_Scooter_Simulation/blob/main/Graphics/number_of_scooters.png)
+![alt text](https://github.com/jonnyascott/E_Scooter_Simulation/blob/main/Graphics/initial_positions.png)
